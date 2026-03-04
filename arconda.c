@@ -16,7 +16,7 @@
 volatile sig_atomic_t sigint_received = 0;
 
 void sigint_handler(int sig) {
-    (void)sig;  // Suppress unused parameter warning
+    (void)sig;
     sigint_received = 1;
 }
 
