@@ -226,7 +226,7 @@ The hidden data is:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU Affero General Public License - see the [LICENSE](https://github.com/kUrOSH1R0oo/Arconda/blob/main/LICENSE) file for details.
 
 ## Author
 
